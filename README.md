@@ -1,0 +1,1 @@
+I was tasked with creatinf a simple api using node, express and Javascript to create a mini database and create a get,put, pull and delete request to be able to do things such as update, add delete and grab all the data in that database.
